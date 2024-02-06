@@ -15,23 +15,11 @@ _ 🧠 I'm learning React and PHP<br>
 _ 🚀 I'm currently working in [Worklab](https://criasoft.com.br)<br>
 _ ⚡ My favorite game is The Witcher<br>
 
-## Skills  
+## Languages and Skills  
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-            width="36" height="36" alt="Javascript" /></a> <a
-        href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-            width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank"
-        rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-            width="36" height="36" alt="CSS3" /></a> <a href="https://nodejs.org/en/" target="_blank"
-        rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
-            width="36" height="36" alt="NodeJS" /></a> <a href="https://www.mongodb.com/" target="_blank"
-        rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-            width="36" height="36" alt="MongoDB" /></a> </p>
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=javascript,css,html,php,laravel,react,vue,mysql" />
+</p>
 
  ## Socials
 
@@ -42,10 +30,14 @@ _ ⚡ My favorite game is The Witcher<br>
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex;>
+<div align="left">
 
-<a href="http://www.github.com/Raphaelpht"><img src="https://github-readme-stats.vercel.app/api?username=Raphaelpht&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Raphaelpht's GitHub stats" /></a> 
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=Raphaelpht&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Raphaelpht's GitHub stats" />
 
-<a href="https://github.com/Raphaelpht" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaelpht&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br>
+
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaelpht&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+
+<!-- <img width="325em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raphaelpht&layout=compact&theme=dark&count_private=true&hide_border=true" alt="Raphaelpht's stats"/> -->
 
 </div>
